@@ -1,0 +1,13 @@
+fastapi>=0.110
+uvicorn>=0.27
+requests>=2.31
+python-dotenv>=1.0
+pydantic>=2.6
+rapidfuzz>=3.6
+gspread>=6.0
+google-auth>=2.30
+selenium>=4.0
+selenium-wire>=5.0
+packaging
+setuptools
+google-api-python-client
