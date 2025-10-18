@@ -15,3 +15,4 @@ if "%1"=="" (
 echo {"sacsid": "%1"} > .sacsid.json
 echo SACSID cookie updated successfully!
 echo Saved to .sacsid.json
+pause

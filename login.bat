@@ -12,3 +12,4 @@ if exist "venv\Scripts\python.exe" (
 
 echo Running Google OAuth login...
 %PYTHON% google_login.py
+pause

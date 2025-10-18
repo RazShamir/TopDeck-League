@@ -12,3 +12,6 @@ if exist "venv\Scripts\python.exe" (
 
 REM Run the tournament processor with all arguments passed through
 %PYTHON% process_tournament_complete.py %*
+
+REM Keep window open so user can see the output
+pause
